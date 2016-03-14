@@ -1,7 +1,7 @@
 name: farskallen
 favicon: null
-layout_spectrum: 0.2079125428572297
-typography_spectrum: 0.6976342925336212
+layout_spectrum: 0
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.3591959949117154
-  lightness: 0.421790987951681
-  saturation: 0.8543812355492264
-  rhythmicContrast: 0.40925368992611766
+  brandStrength: 0.5
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
