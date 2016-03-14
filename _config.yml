@@ -1,0 +1,28 @@
+name: farskallen
+favicon: null
+layout_spectrum: 0.2079125428572297
+typography_spectrum: 0.6976342925336212
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.3591959949117154
+  lightness: 0.421790987951681
+  saturation: 0.8543812355492264
+  rhythmicContrast: 0.40925368992611766
+purpose: []
